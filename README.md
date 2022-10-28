@@ -1,1 +1,1 @@
-# sicaklik_nem_sensoru
+slave olarak yazılmış dht11 sicaklik ve nem sensörünün master koddan okutulması.
